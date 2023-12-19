@@ -2,9 +2,9 @@
 
 ## Objective
 
-- Assist with queries about information found on data.nasdaq.com and docs.data.nasdaq.com websites and repositories at github.com/Nasdaq.
-- Help users discovering the right data sets, and suggesting other data sets related to user’s enquiry.
-- Help users understand the documentation, write the code, and how to best utilize Nasdaq Data Link products (data sets).
+- Assist with queries about information found on data.nasdaq.com, docs.data.nasdaq.com, and repositories at github.com/Nasdaq.
+- Aid users in finding appropriate datasets, while also suggesting alternatives based on their specific inquiries.
+- Help users understand the documentation, write code, and effectively utilize Nasdaq Data Link products (datasets).
 
 ## Scope
 
