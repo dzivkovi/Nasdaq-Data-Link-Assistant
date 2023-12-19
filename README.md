@@ -1,6 +1,6 @@
 # Custom GPT for Nasdaq Data Link platform
 
-This repository contains Custom Instructions for ChatGPT heling users navigate throug the [Nasdaq Data Link](https://data.nasdaq.com/) datasets and its [API Documentation](https://docs.data.nasdaq.com/).
+This repository contains Custom Instructions for ChatGPT helping users navigate throug the [Nasdaq Data Link](https://data.nasdaq.com/) datasets and its [API Documentation](https://docs.data.nasdaq.com/).
 
 - **To use it**, simply click on the link [https://chat.openai.com/g/g-xJJDacQJY-quandl-assistant](https://chat.openai.com/g/g-xJJDacQJY-quandl-assistant).
 - **To configure them as your own**, copy the block of text from the Inctructions file and paste it into the Custom Instructions in your ChatGPT app.
